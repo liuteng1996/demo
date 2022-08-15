@@ -16,4 +16,5 @@ public class Stock {
     private String classname2;
     private String code;
     private String name;
+    private String classname;
 }
