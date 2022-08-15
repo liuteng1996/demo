@@ -13,6 +13,7 @@ public class Stock {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
+    private String classname2;
     private String code;
     private String name;
 }
